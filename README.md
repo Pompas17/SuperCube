@@ -9,9 +9,11 @@ This is a passion project made to learn Unity from the ground up.
 
 ## 🎮 Gameplay Preview
 
-![Gameplay](https://github.com/Pompas17/SuperCube/raw/main/SuperCube_gameplay.mp4)
 
-> 💡 Tip: If the video doesn't autoplay, [click here to download it](https://github.com/Pompas17/SuperCube/raw/main/SuperCube_gameplay.mp4)
+https://github.com/user-attachments/assets/c3278970-22f3-4bfa-8466-cd7c4f15de20
+
+
+![Gameplay](https://github.com/user-attachments/assets/c3278970-22f3-4bfa-8466-cd7c4f15de20)
 
 ---
 
